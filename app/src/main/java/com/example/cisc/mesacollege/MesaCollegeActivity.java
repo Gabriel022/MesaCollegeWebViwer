@@ -8,7 +8,7 @@ import android.webkit.WebViewClient;
 public class MesaCollegeActivity extends AppCompatActivity {
 
 
-
+    private static final String TAG = "MesaCollegeActivity";
 
 
     @Override
